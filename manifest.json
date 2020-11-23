@@ -1,0 +1,6 @@
+{
+    "name": "Facebook suggestions hidder",
+    "version": "1.0.0",
+    "description": "Hides the facebook suggestions to avoid the main distractions in the social network.",
+    "manifest_version": 2
+  }
